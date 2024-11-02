@@ -64,5 +64,7 @@ y_pred value
 Accuracy value
 ![image](https://github.com/user-attachments/assets/e95c6f76-60f6-4af3-bc7b-9019c37d6b02)
 
+
+
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
